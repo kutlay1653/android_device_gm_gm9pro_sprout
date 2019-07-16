@@ -18,8 +18,8 @@
 
 set -e
 
-DEVICE=zangyapro
-VENDOR=bq
+DEVICE=GM9PRO_d_sprout
+VENDOR=GM
 
 INITIAL_COPYRIGHT_YEAR=2017
 
